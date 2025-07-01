@@ -1,4 +1,3 @@
-# library_management_system
 # 📚 Library Management System
 
 A basic system to manage books, members, and transactions like issuing and returning books. Ideal for small libraries or academic projects.
